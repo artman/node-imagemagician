@@ -1,0 +1,14 @@
+{ "name" : "imagemagician"
+, "description" : "A simple ImageMagick wrapper."
+, "tags" : ["image", "simple", "imagemagick", "utility"]
+, "version" : "0.0.1"
+, "author" : "Tuomas Artman <tuomas@artman.fi>"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/artman/imagemagician.git"
+  }
+, "bugs" :
+  { "url" : "http://github.com/artman/imagemagician/issues" }
+, "engines" : ["node >= 0.6.0"]
+, "main" : "./lib/imagemagician"
+}
