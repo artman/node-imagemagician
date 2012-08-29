@@ -1,7 +1,7 @@
 { "name" : "imagemagician"
 , "description" : "A simple ImageMagick wrapper."
 , "tags" : ["image", "simple", "imagemagick", "utility"]
-, "version" : "0.0.1"
+, "version" : "0.0.2"
 , "author" : "Tuomas Artman <tuomas@artman.fi>"
 , "repository" :
   { "type" : "git"
